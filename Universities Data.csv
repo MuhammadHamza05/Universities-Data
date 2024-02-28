@@ -1,0 +1,3434 @@
+,name,data
+0,"<div class=""col-md-4 col-sm-5 logo"" style=""width:50% !important;"">
+							<table>
+								<tbody><tr><td><a href=""../Default.aspx""><img alt="""" src=""http://www.pastic.gov.pk/Theme/images/pastic-logo.png"" width=""150px""/></a></td><td style=""font-family:Helvetica;font-weight:500;font-size:22px; color:gold"">Technology Information Services (TIS)</td></tr>
+							</tbody></table>
+							</div>","<div class=""top-content"">
+
+           <div class=""row"">
+
+            <div class=""col-md-12"">
+
+                <div class=""blog-list"" style=""margin-left:0px;"">
+                   <div class=""post-content"">
+                       
+
+                                                <h1 style=""color: #dc9805"">
+Database of Universities/Institutes of Pakistan
+
+</h1>
+                                                <div style=""float:right""><a href=""tis.aspx"">&lt;&lt;TIS Home</a></div>
+<div class=""main_container"" id=""dashboard_page"" style=""margin-left:0px !important;margin-top:50px;width:100%;font-size:14px;"">
+    <div class=""row-fluid"">
+          <div class=""widget widget-padding span12"">
+
+            <div class=""widget-body"" style=""padding-top:10px !important;"">
+                        
+                                <div id=""tableScrolling"">
+
+                <table border=""1"" cellspacing=""0"" class=""table table-striped table-bordered"" id=""example"" style=""width:100%;border-collapse:collapse;"">
+
+<thead class=""alert alert-info""><tr style=""white-space:nowrap;""><th scope=""col"">Univeristy/Institute</th>
+
+   <th scope=""col"">Sector</th>
+
+     <th scope=""col"">City</th>
+
+    <th scope=""col"">Address</th> 
+
+   <th scope=""col"">Phone</th> 
+
+  <th scope=""col"">Other details</th> 
+
+      </tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>ABASYN UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>Peshawar Campus, Ring Road (Charsadda Link), Peshawar.</td>
+
+<td>92-91-258 2934, +92-91- 224867</td>
+
+<td><strong>Email:</strong> admissions@abasyn.edu.pk <br/><strong>Fax:</strong>+92 051 8438325 <br/><strong>URL:</strong>http://www.abasyn.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Abbottabad University of Science and Technology (AUST)</td>
+
+<td>Public</td>
+
+<td>Abbottabad</td>
+
+<td>Captain Akaash Rabbani Shaheed Road, Tehsil Havelian, District Abbottabad, Khyber Pakhtunkhwa</td>
+
+<td>+92 (992) 402 117</td>
+
+<td><strong>Email:</strong> info@aust.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://aust.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ABDUL WALI KHAN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Mardan</td>
+
+<td>Garden Campus Toru Road, Mardan</td>
+
+<td>+92-937-843356, +92-937-840499</td>
+
+<td><strong>Email:</strong> ua-cdc@awkum.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.awkum.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>AIR UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Service Road E-9 / E-8, Islamabad, Pakistan، Islamabad 44000, Pakistan</td>
+
+<td> +92-51-9262557-9 </td>
+
+<td><strong>Email:</strong> amjad@mail.au.edu.pk <br/><strong>Fax:</strong>051-9260158<br/><strong>URL:</strong>http://www.au.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>AL-HAMD ISLAMIC UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Quetta</td>
+
+<td>Airport Road Quetta, Baleli Road, Quetta, Pakistan </td>
+
+<td>+92-81-2301771-6, 4, 3,2</td>
+
+<td><strong>Email:</strong> info@aiu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.aiu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ALI INSTITUTE OF EDUCATION</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Shahrah-e-Roomi (Ferozpur Road), Lahore 54000. </td>
+
+<td> +92.423 588 2913</td>
+
+<td><strong>Email:</strong> info@aie.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.aie.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>ALLAMA IQBAL OPEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Ashfaq Ahmed Road, H-8/2، Islamabad 44000, Pakistan</td>
+
+<td>+92-51-111-112-468 </td>
+
+<td><strong>Email:</strong> support@aiou.edu.pk <br/><strong>Fax:</strong>(042) 99260021<br/><strong>URL:</strong>http://www.aiou.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BAHAUDDIN ZAKARIYA UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>Bosan Road,Multan 60000, Multan, Pakistan</td>
+
+<td>+92-61-9210069 </td>
+
+<td><strong>Email:</strong> registrar@bzu.edu.pk <br/><strong>Fax:</strong>+92 61 9210069<br/><strong>URL:</strong>http://www.bzu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BAHRIA UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Sector E-8، Shangrilla Rd, Islamabad, Pakistan</td>
+
+<td>+92-51-111-111-028 </td>
+
+<td><strong>Email:</strong> info@bahria.edu.pk <br/><strong>Fax:</strong> 92-51-9260885<br/><strong>URL:</strong>http://www.bahria.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>Balochistan University of Engineering &amp; Technology</td>
+
+<td>Public</td>
+
+<td>Khuzdar</td>
+
+<td>Balochistan University of Engg &amp; Technology (BUET), Khuzdar. </td>
+
+<td>+92-848-412834, +92-848-502100</td>
+
+<td><strong>Email:</strong> info@buetk.edu.pk <br/><strong>Fax:</strong>FAX +92 848 413197, <br/><strong>URL:</strong>http://www.buetk.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BALOCHISTAN UNIVERSITY OF INFORMATION TECHNOLOGY &amp; MANAGEMENT SCIENCES</td>
+
+<td>Public</td>
+
+<td>Quetta</td>
+
+<td>Balochistan University of Information Technology, Engineering and Management Sciences, Airport Road, Baleli, Quetta.</td>
+
+<td>+92-81-2881042081, +92-81-9202</td>
+
+<td><strong>Email:</strong> faisal.durrani@buitms.edu.pk <br/><strong>Fax:</strong>+92 (81) 2880522<br/><strong>URL:</strong>http://www.buitms.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BAQAI MEDICAL UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>51, Deh Tor, Gadap Road, Near Toll Plaza, Super Highway P.O Box No 2407, Karachi - 74600, Pakistan.</td>
+
+<td>+92-21-34410-311, +92-21-34410</td>
+
+<td><strong>Email:</strong> info@baqai.edu.pk <br/><strong>Fax:</strong>(092-21)34410-317 , <br/><strong>URL:</strong>http://www.baqai.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BEACONHOUSE NATIONAL UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>13 KM Raiwaind Road, Near Jati Umrah Road, Lahore 54400. </td>
+
+<td>+92-42-38100156 </td>
+
+<td><strong>Email:</strong> info@bnu.edu.pk <br/><strong>Fax:</strong>(92) 42-5760254<br/><strong>URL:</strong>http://www.bnu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Fakir Muhammad Dura Khan Road, Near “Kashti Chowk” Lyari, Karachi, Postal Code: 75660. </td>
+
+<td>+92-21-32744020, +92-21-327440</td>
+
+<td><strong>Email:</strong> info@bbsul.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.bbsul.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>CECOS UNIVERSITY OF INFORMATION TECHNOLOGY &amp; EMERGING SCIENCES</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>CECOS University, Phase 6, Sector F-5, Hayatabad, Peshawar. </td>
+
+<td>+92-91-5864291 </td>
+
+<td><strong>Email:</strong> info@www.cecos.edu.pk <br/><strong>Fax:</strong>(92) (091) 5860294<br/><strong>URL:</strong>http://www.cecos.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>COMSATS INSTITUTE OF INFORMATION TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Park Road, Tarlai Kalan,  Islamabad 45550, Pakistan </td>
+
+<td>051-90495112</td>
+
+<td><strong>Email:</strong> registrar@comsats.edu.pk <br/><strong>Fax:</strong>051-9247006<br/><strong>URL:</strong>https://www.comsats.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>CAPITAL UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Capital University of Science &amp; Technology  Islamabad Expressway,  Kahuta Road, Zone-V  Islamabad.</td>
+
+<td>+92-51-2512800-1, +92-51-44867</td>
+
+<td><strong>Email:</strong> registrar@cust.edu.pk <br/><strong>Fax:</strong>+92-51-4486705<br/><strong>URL:</strong>http://www.cust.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>CITY UNIVERSITY OF SCIENCE AND INFORMATION TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>City University  Of Science and Information Technology Dalazak Road Peshawar, Pakistan.</td>
+
+<td>+92-91-2609501-8 </td>
+
+<td><strong>Email:</strong> info@cusit.edu.pk <br/><strong>Fax:</strong>+92 91 2609500<br/><strong>URL:</strong>http://www.cityuniversity.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>COMMECS INSTITUTE OF BUSINESS &amp; EMERGING SCIENCES</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Plot No. 40-B, Block-6, PECHS, Karachi. </td>
+
+<td>+92-21-34634104, +92-21-343200</td>
+
+<td><strong>Email:</strong> info@commecsinstitute.edu.pk <br/><strong>Fax:</strong>8110751<br/><strong>URL:</strong>http://www.commecsinstitute.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>DHA SUFFA UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>DG-78, Off Khayaban-e-Tufail, Ph-VII (Ext),DHA, Karachi-75500.</td>
+
+<td>+92-21-35244875 </td>
+
+<td><strong>Email:</strong> info@dsu.edu.pk <br/><strong>Fax:</strong>021-35244855<br/><strong>URL:</strong>http://www.dsu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>DOW UNIVERSITY OF HEALTH SCIENCES</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Baba-E-Urdu Road, Karachi 74200. </td>
+
+<td>+92-21-99215754-7 +92-21-32715</td>
+
+<td><strong>Email:</strong> ctu@duhs.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.duhs.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>DADABHOY INSTITUTE OF HIGHER EDUCATION</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>SNPA-17/B, Block 3, P.E.C.H.Society,Shaheed-e-Millat Road, Karachi. </td>
+
+<td>+92-21-34389108, +92-21-111-02</td>
+
+<td><strong>Email:</strong> registrar@dadabhoy.edu.pk <br/><strong>Fax:</strong>92 21 4389147<br/><strong>URL:</strong>http://www.dadabhoy.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>DAWOOD UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>M.A. Jinnah Road, Karachi 74800. </td>
+
+<td>+92-21-99230701, +92-21-992311</td>
+
+<td><strong>Email:</strong> info@duet.edu.pk <br/><strong>Fax:</strong>021-99230710<br/><strong>URL:</strong>http://www.duet.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>FATIMA JINNAH MEDICAL UNIVERSITY, LAHORE</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Shara-I-Fatima Jinnah ,Queens Road  Lahore </td>
+
+<td> 99200572-8, 99203718 111-222-</td>
+
+<td><strong>Email:</strong> info.college@fjmc.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.fjmc.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>FEDERAL URDU UNIVERSITY OF ARTS, SCIENCES &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Sector G-7/1, Near Zero Point,Islamabad. </td>
+
+<td>+92-51-9252860-64 </td>
+
+<td><strong>Email:</strong> info@fuuastisb.edu.pk <br/><strong>Fax:</strong>051-9252855<br/><strong>URL:</strong>http://www.fuuastisb.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>FORMAN CHRISTIAN COLLEGE</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Forman Christian College  Ferozepur Road  Lahore 54600  Pakistan</td>
+
+<td>+92-42-99230782, +92-42-992315</td>
+
+<td><strong>Email:</strong> contact@fccollege.edu.pk <br/><strong>Fax:</strong> +92 (42) 9923 0703<br/><strong>URL:</strong>http://www.fccollege.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>FOUNDATION UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Defence Avenue, Phase-I, DHA,Islamabad </td>
+
+<td>+92-51-5788171, +92-51-5788250</td>
+
+<td><strong>Email:</strong> info@fui.edu.pk <br/><strong>Fax:</strong>92-51-5151433<br/><strong>URL:</strong>http://www.fui.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>GIFT UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Gujranwala</td>
+
+<td>Sialkot Bypass, Gujranwala, Pakistan. </td>
+
+<td>+92-55-3892981</td>
+
+<td><strong>Email:</strong> info@gift.edu.pk <br/><strong>Fax:</strong>92 55 3890266  <br/><strong>URL:</strong>http://www.gift.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GANDHARA UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Khyber Pukhtunkhwa</td>
+
+<td>Canal Road University Town, Peshawar. </td>
+
+<td>+92-243-640160</td>
+
+<td><strong>Email:</strong> info@gandhara.edu.pk <br/><strong>Fax:</strong>92 (0)91 5844428<br/><strong>URL:</strong>http://www.gandhara.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GHAZI UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Dera Ghazi Khan</td>
+
+<td>Ghazi University, Dera Ghazi Khan - City Campus,  College Chowk, Near Pul Dat.</td>
+
+<td>+92-64-9260380 </td>
+
+<td><strong>Email:</strong> info@gudgk.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.gudgk.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GHULAM ISHAQ KHAN INSTITUTE OF ENGINEERING SCIENCES &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Swabi</td>
+
+<td>GIK Institute of Engineering Sciences and Technology, Topi 23640, District Swabi, Khyber Pakhtunkhwa, Pakistan.</td>
+
+<td>+92-938-271875,+92-938-271897</td>
+
+<td><strong>Email:</strong> sherali@giki.edu.pk <br/><strong>Fax:</strong>0938-281032 <br/><strong>URL:</strong>http://www.giki.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GOMAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Dera Ismail Khan</td>
+
+<td>Indus HWY, DI Khan City, Dera Ismail Khan, Khyber Pakhtoonkhwa, Dera Ismail Khan, Pakistan</td>
+
+<td>+92-966-750266, +92-966-750279</td>
+
+<td><strong>Email:</strong> submit.gomalujr@gmail.com <br/><strong>Fax:</strong>+92 966 750057<br/><strong>URL:</strong>http://www.gu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>GOVERNMENT COLLEGE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Faisalabad</td>
+
+<td>Kotwali Rd, Faisalabad 38000, Pakistan. </td>
+
+<td>+92-41-9200670, +92-41-9201266</td>
+
+<td><strong>Email:</strong> info@gcuf.edu.pk <br/><strong>Fax:</strong>(92)-041-9200671<br/><strong>URL:</strong>http://www.gcuf.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GOVERNMENT COLLEGE UNIVERSITY, LAHORE</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Near Nasir Bagh, Katchery Rd, Lahore 54000, Pakistan. </td>
+
+<td>+92-42-111 000 010 </td>
+
+<td><strong>Email:</strong> registrar@gcu.edu.pk <br/><strong>Fax:</strong>+92-42-99213337<br/><strong>URL:</strong>http://www.gcu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Government College Women University Faisalabad</td>
+
+<td>Public</td>
+
+<td>Faisalabad</td>
+
+<td>Government College Women University, Shafique Road Faisalabad Zip Code 38000</td>
+
+<td>+92-41-9220065</td>
+
+<td><strong>Email:</strong> info@gcwuf.edu.pk <br/><strong>Fax:</strong>+92-41-9220065<br/><strong>URL:</strong>http://gcwuf.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>GOVERNMENT COLLEGE FOR WOMEN UNIVERSITY, SIALKOT</td>
+
+<td>Public</td>
+
+<td>Sialkot</td>
+
+<td>Kutchehry Road, Sialkot Pakistan</td>
+
+<td>+92-52-925 0170, +92-52-925 05</td>
+
+<td><strong>Email:</strong> info@gcwus.edu.pk <br/><strong>Fax:</strong>052-9250168<br/><strong>URL:</strong>http://www.gcwus.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>GOVERNMENT SADIQ COLLEGE WOMEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Bahawalpur</td>
+
+<td>Government Sadiq College Women University, Bahawalpur. </td>
+
+<td>+92-62-2284803, +92-62 9250075</td>
+
+<td><strong>Email:</strong> info@gscwu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://www.gscwu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>GREENWICH UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>DK-10, 38th Street, Darkshan, DHA, Phase 6, Karachi 75500. </td>
+
+<td>(92)(21) 35840397/98, (92)(21)</td>
+
+<td><strong>Email:</strong> gu@greenwich.edu.pk <br/><strong>Fax:</strong>(92)(21) 35851910<br/><strong>URL:</strong>http://www.greenwich.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>HITEC UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Taxila</td>
+
+<td>Museum Road, Taxila Cantt</td>
+
+<td>+92-51-4908142, +92-51-3010514</td>
+
+<td><strong>Email:</strong> assistant.registrar@hitecuni.edu.pk <br/><strong>Fax:</strong>051-4908145<br/><strong>URL:</strong>http://www.hitecuni.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>HABIB UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Habib University Foundation147, Block 7 &amp; 8 Banglore Cooperative Housing SocietyTipu Sultan Road Karachi – 75350. </td>
+
+<td>+92-21-111-042 242 </td>
+
+<td><strong>Email:</strong> aamir.siddiqui@habib.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.habib.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>HAJVERY UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>43-52 Industrial Area Gulberg III, Lahore. </td>
+
+<td>+92-42-35717130-1, +92-42-111 </td>
+
+<td><strong>Email:</strong> registrar@hup.edu.pk <br/><strong>Fax:</strong>042-35755564<br/><strong>URL:</strong>http://www.hajvery.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>HAMDARD UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Madinat-al-Hikmah, Sharea Madinat al-Hikmah, Muhammad Bin Qasim Avenue, Karachi 74600. </td>
+
+<td>+92-21-36440030021, +92-21-364</td>
+
+<td><strong>Email:</strong> info@hamdard.edu.pk <br/><strong>Fax:</strong>(92-21) 36440045<br/><strong>URL:</strong>http://www.hamdard.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>HAZARA UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Mansehra</td>
+
+<td>DHODIAL MANSEHRA [NWFP]</td>
+
+<td>+92-997-530732, +92-997-414121</td>
+
+<td><strong>Email:</strong> registrar@hu.edu.pk <br/><strong>Fax:</strong>+92-997-530046<br/><strong>URL:</strong>http://www.hu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INDUS VALLEY SCHOOL OF ART &amp; ARCHITECTURE</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Street 33, Block 2, Scheme-5, Clifton, Karachi.75600 </td>
+
+<td>+92-21-111-111-487 </td>
+
+<td><strong>Email:</strong> info@ivs.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.indusvalley.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INDUS UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>ST-2D, Block-17, Adjacent National Stadium Gulshan-e Iqbal, Opp: Mushriq Centre, Karachi. </td>
+
+<td>+92-21-34977457, +92-21- 34801</td>
+
+<td><strong>Email:</strong> admission.site@indus.edu.pk <br/><strong>Fax:</strong>(92-21) 34985320<br/><strong>URL:</strong>http://www.indus.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INFORMATION TECHNOLOGY UNIVERSITY OF THE PUNJAB</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>6th Floor, Arfa Software Technology Park, Ferozepur Road, Lahore</td>
+
+<td>+92-42-99232124, +9242-9923253</td>
+
+<td><strong>Email:</strong> admission@itu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.itu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF BUSINESS &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Main Ibrahim Hydri Road, Korangi Creek, Karachi. </td>
+
+<td>+92-21-35120462, +92-21-350918</td>
+
+<td><strong>Email:</strong> info@biztek.edu.pk <br/><strong>Fax:</strong>021-5092384<br/><strong>URL:</strong>http://www.biztek.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF BUSINESS ADMINISTRATION</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Plot # 68 &amp; 88 Garden / Kayani Shaheed Road, Karachi - 74400 Pakistan</td>
+
+<td>92-21-38104700</td>
+
+<td><strong>Email:</strong> info@khi.iba.edu.pk <br/><strong>Fax:</strong>92-21-99261508<br/><strong>URL:</strong>http://www.iba.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF BUSINESS MANAGEMENT</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Korangi Creek, Karachi-75190, Pakistan. </td>
+
+<td>(+92-21)3509-0961-67</td>
+
+<td><strong>Email:</strong> mec@iobm.edu.pk <br/><strong>Fax:</strong>(+92-21)3509-0968<br/><strong>URL:</strong>http://www.iobm.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF MANAGEMENT SCIENCES</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>I-A, Sector E-5, Phase-VII, Hayatabad, Peshawar. </td>
+
+<td> 091-9217408,091-9217443,091-9</td>
+
+<td><strong>Email:</strong> info@imsciences.edu.pk <br/><strong>Fax:</strong>091-5861026,091-9217<br/><strong>URL:</strong>http://www.imsciences.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF MANAGEMENT SCIENCES, Lahore </td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td> 23-E-III, Gulberg-III, 54660 Lahore, Pakistan</td>
+
+<td>+92-42-35751115-8, +92-42-3575</td>
+
+<td><strong>Email:</strong> info@pakaims.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.pakaims.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF SOUTHERN PUNJAB</td>
+
+<td>Private</td>
+
+<td>Multan</td>
+
+<td>9-KM, Bosan Road, Multan, Pakistan</td>
+
+<td>+92-61-111-786-477</td>
+
+<td><strong>Email:</strong> info@isp.edu.pk <br/><strong>Fax:</strong>+92-61-6522166<br/><strong>URL:</strong>http://isp.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>INSTITUTE OF SPACE TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Institute of Space Technology , P.O. Box 2750 Islamabad 44000 , Pakistan</td>
+
+<td>+92-51-9075100, +92-51-9273310</td>
+
+<td><strong>Email:</strong> info@ist.edu.pk <br/><strong>Fax:</strong>+92-51-9273310<br/><strong>URL:</strong>http://www.ist.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>INTERNATIONAL ISLAMIC UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Sector H-10، Islamabad 44000, Pakistan</td>
+
+<td>+92-51-9257988, +92-51-9019616</td>
+
+<td><strong>Email:</strong> khalidmraja@iiu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.iiu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>IQRA NATIONAL UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>Phase-II, Hayatabad Peshawa</td>
+
+<td>+92-91-5822 852091 </td>
+
+<td><strong>Email:</strong> info@inu.edu.pk <br/><strong>Fax:</strong>5822984<br/><strong>URL:</strong>http://www.inu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>IQRA UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Defence View, Shaheed-e-Millat Road, (Ext), Karachi.</td>
+
+<td>+92-21-35310802, +92-21-353108</td>
+
+<td><strong>Email:</strong> registrar@iqra.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.iqra.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ISLAMIA COLLEGE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>Jamrod Road, University Campus,Peshawar. </td>
+
+<td>+92-91-9216009 </td>
+
+<td><strong>Email:</strong> registrar@icp.edu.pk <br/><strong>Fax:</strong>091-9222090<br/><strong>URL:</strong>http://www.icp.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ISLAMIA UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Bahawalpur</td>
+
+<td>The Islamia University of Bahawalpur  Pakistan.</td>
+
+<td>92 - 62 - 9250235 </td>
+
+<td><strong>Email:</strong> info@iub.edu.pk <br/><strong>Fax:</strong>92 - 62 - 9250335 <br/><strong>URL:</strong>http://www.iub.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ISRA UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Hyderabad</td>
+
+<td>Isra University, Hala Road, Hyderabad Sindh, Pakistan</td>
+
+<td>(92 22) 2030181-4</td>
+
+<td><strong>Email:</strong> admissions@isra.edu.pk <br/><strong>Fax:</strong>(92 22) 2030180 &amp; 20<br/><strong>URL:</strong>http://www.isra.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>JINNAH SINDH MEDICAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Rafique H.J Shaheed Road, Karachi. </td>
+
+<td>+92-21-99204776, +92-21- 35223</td>
+
+<td><strong>Email:</strong> admissions@jsmu.edu.pk <br/><strong>Fax:</strong>99201372<br/><strong>URL:</strong>http://www.jsmu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>JINNAH UNIVERSITY FOR WOMEN</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Jinnah University for Women, 5-C, Nazimabad, Karachi 74600. </td>
+
+<td>+92-21-36611245, +92-21-366199</td>
+
+<td><strong>Email:</strong> info@juw.edu.pk <br/><strong>Fax:</strong>(92-21) 6620614<br/><strong>URL:</strong>http://www.juw.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KASB INSTITUTE OF TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>84-B, S.M.C.H.S, Off Shahrah-e-Faisal,  Karachi-74400, Pakistan. </td>
+
+<td>+92-21-343 14970-3 </td>
+
+<td><strong>Email:</strong> info@kasbit.edu.pk <br/><strong>Fax:</strong>4525525<br/><strong>URL:</strong>http://www.kasbit.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KARACHI INSTITUTE OF ECONOMICS &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>PAF-KIET Main Campus Korangi Creek, Karachi 75190</td>
+
+<td>+92-21-35091114-7 </td>
+
+<td><strong>Email:</strong> registrar@pafkiet.edu.pk <br/><strong>Fax:</strong>(9221) 35091118<br/><strong>URL:</strong>http://www.pafkiet.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KARACHI SCHOOL FOR BUSINESS &amp; LEADERSHIP</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>National Stadium Road Opp. Liaquat National Hospital,Karachi – 74800. </td>
+
+<td>+92-21-721021, +92-21-38771999</td>
+
+<td><strong>Email:</strong> info@ksbl.edu.pk <br/><strong>Fax:</strong>+92 (21) 38771999<br/><strong>URL:</strong>http://www.ksbl.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KARAKURUM INTERNATIONAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Gilgit</td>
+
+<td>Karakoram International University, Main Campus University Road Gilgit (15100) Pakistan</td>
+
+<td>+92-5811-960440 </td>
+
+<td><strong>Email:</strong> info@kiu.edu.pk <br/><strong>Fax:</strong>051-9266853<br/><strong>URL:</strong>http://www.kiu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KHAWAJA FREED UNIVERSITY OF ENGINEERING &amp; INFORMATION TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Rahim Yar Khan</td>
+
+<td>Abu Dhabi Road, Rahim Yar Khan</td>
+
+<td>+92-68-9239121, +92-68-9239122</td>
+
+<td><strong>Email:</strong> info@kfueit.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.kfueit.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>KHYBER MEDICAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>PDA building Block-4 Phase-5 Hayatabad Peshawar </td>
+
+<td>+92-91- 9217695 </td>
+
+<td><strong>Email:</strong> info@kmu.edu.pk <br/><strong>Fax:</strong>+92919217704<br/><strong>URL:</strong>http://www.kmu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY,University Campus, Peshawar</td>
+
+<td>+92-91-9216518091, +92--921657</td>
+
+<td><strong>Email:</strong> riazadil@aup.edu.pk <br/><strong>Fax:</strong>+ 92 91 9221262<br/><strong>URL:</strong>http://www.aup.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KING EDWARD MEDICAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Nelagumbad near New Anarkali, Lahore. </td>
+
+<td>+92-42-99211151, +92-42-373540</td>
+
+<td><strong>Email:</strong> info@kemu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.kemu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KINNAIRD COLLEGE FOR WOMEN</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Kinnaird College for Women 93- Jail Road, Lahore</td>
+
+<td>+92-42-99203781-4 </td>
+
+<td><strong>Email:</strong> info@kinnaird.edu.pk <br/><strong>Fax:</strong>+92 42 9920 3788<br/><strong>URL:</strong>http://www.kinnaird.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>KOHAT UNIVERSITY OF SCIENCE AND TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Kohat</td>
+
+<td>Bannu Rd, Kohat 26000, Khyber Pakhtunkhwa. </td>
+
+<td>+92-922-554578, +92-922-529147</td>
+
+<td><strong>Email:</strong> registrar@kust.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.kust.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>LAHORE COLLEGE FOR WOMEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Lahore College for Women University, Jail Road, Lahore.  </td>
+
+<td>+92-42-99203088 </td>
+
+<td><strong>Email:</strong> registrar@lcwu.edu.pk <br/><strong>Fax:</strong>+92-42-99203077<br/><strong>URL:</strong>http://www.lcwu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>LAHORE GARRISON UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Main Campus, Sector C, DHA Phase-VI, Lahore. </td>
+
+<td>+92-42-37181821-22 </td>
+
+<td><strong>Email:</strong> info@lgu.edu.pk <br/><strong>Fax:</strong>92 42 36603090<br/><strong>URL:</strong>http://lgu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>LAHORE LEADS UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>5-Tipu Block, New Garden Town, Lahore. </td>
+
+<td>+92-42-35846330, +92-423584320</td>
+
+<td><strong>Email:</strong> admission@leads.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.leads.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>LAHORE UNIVERSITY OF MANAGEMENT SCIENCES</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>D.H.A, Lahore Cantt. 54792  Lahore, Pakistan. </td>
+
+<td>+92 42 3560 8000</td>
+
+<td><strong>Email:</strong> mahjabeen.ahmad@lums.edu.pk <br/><strong>Fax:</strong>+92 42 3572 5048<br/><strong>URL:</strong>http://www.lums.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>LIAQUAT UNIVERSITY OF MEDICAL &amp; HEALTH SCIENCES</td>
+
+<td>Public</td>
+
+<td>Jamshoro</td>
+
+<td>Liaquat University of Medical &amp; Health Sciences Jamshoro, Sindh - Pakistan</td>
+
+<td>+92-22-9213305, +92-22-9213307</td>
+
+<td><strong>Email:</strong> registrar@lumhs.edu.pk <br/><strong>Fax:</strong>+92 22 9213306<br/><strong>URL:</strong>http://www.lumhs.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>MEHRAN UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Jamshoro</td>
+
+<td>Indus Highway, Jamshoro 76062, Pakistan. </td>
+
+<td>+92 (22) 2772250-73</td>
+
+<td><strong>Email:</strong> registrar@admin.muet.edu.pk <br/><strong>Fax:</strong>+92 (22) 2772281 <br/><strong>URL:</strong>http://www.muet.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>MINHAJ UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Near Hamdard Chowk, Township, Lahore.</td>
+
+<td>+92-42-351206800, +92-42-35145</td>
+
+<td><strong>Email:</strong> info@mul.edu.pk <br/><strong>Fax:</strong>042-35116779<br/><strong>URL:</strong>http://www.mul.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>MIRPUR UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Mirpur</td>
+
+<td>Mirpur University of Science and Technology (MUST), Admin Block, Allama Iqbal Road, Sector B-3, Mirpur. </td>
+
+<td>+92-5827-961034 </td>
+
+<td><strong>Email:</strong> info@must.edu.pk <br/><strong>Fax:</strong>+92-5827-961040 / 42<br/><strong>URL:</strong>http://www.must.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>MUHAMMAD ALI JINNAH UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>22-E, Block-6, PECHS, Karachi 75400 </td>
+
+<td>+92-21-111-87-87-87, +92-21-34</td>
+
+<td><strong>Email:</strong> info@jinnah.edu <br/><strong>Fax:</strong>+92-21-3431-1327<br/><strong>URL:</strong>http://www.jinnah.edu</td>
+
+</tr>
+
+<tr>
+
+<td>MUHAMMAD NAWAZ SHAREEF UNIVERSITY OF AGRICULTURE</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>Old Shujaabad Road, Chungi No. 21, Sui Gas road, Multan</td>
+
+<td>+92-61-9201680  +92-61-9201711</td>
+
+<td><strong>Email:</strong> info@mnsuam.edu.pk <br/><strong>Fax:</strong>+92 (61) 920 1680<br/><strong>URL:</strong>http://www.mnsuam.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>MUHAMMAD NAWAZ SHARIF UNIVERSITY OF  ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>GCT, Old Bahwalpur Road, Multan. </td>
+
+<td>+92-61-4482453</td>
+
+<td><strong>Email:</strong> info@mnsuet.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.mnsuet.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>MUSLIM YOUTH UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Muslim Youth University. PO Box 21177  G-10, subsector 4 (G-10/4) Islamabad </td>
+
+<td> +92-51-8733217, +92-51-873321</td>
+
+<td><strong>Email:</strong> contact@myu.edu.pk <br/><strong>Fax:</strong>(051) 8733219<br/><strong>URL:</strong>http://myu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NED UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>NED University of Engineering &amp; Technology University Road, Karachi - 75270, Pakistan</td>
+
+<td>+92-21-99261253, +92-21-99261 </td>
+
+<td><strong>Email:</strong> registrar@neduet.edu.pk <br/><strong>Fax:</strong>(92-21) 99261255<br/><strong>URL:</strong>http://www.neduet.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NFC INSTITUTE OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>NFC Institute of Engineering and Technology, Opposite Pak Arab Fertilizers, Khanewal Road, Multan, Pakistan </td>
+
+<td>+92-61-9220044, +92-61-9220012</td>
+
+<td><strong>Email:</strong> info@nfciet.edu.pk <br/><strong>Fax:</strong>+ 92 61 9220018<br/><strong>URL:</strong>http://www.nfciet.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL COLLEGE OF ARTS</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>4, Shahrah-E-Quaid-E-Azam, Lahore,Pakistan</td>
+
+<td>+92 42 99210599, 99210601 </td>
+
+<td><strong>Email:</strong> info@nca.edu.pk <br/><strong>Fax:</strong>+92 42 99210500<br/><strong>URL:</strong>http://www.nca.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL COLLEGE OF BUSINESS ADMINISTRATION &amp; ECONOMICS</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>National College of Business Administration &amp; Economics, 40-E1, Gulberg III, Lahore 54660, Pakistan</td>
+
+<td>+92 (42) 3575-2716, 19</td>
+
+<td><strong>Email:</strong> admission@ncbae.edu.pk <br/><strong>Fax:</strong>+92 (42) 3575-2547<br/><strong>URL:</strong>http://www.ncbae.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL DEFENSE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Sector E-9, Islamabad </td>
+
+<td>051-9262066-68</td>
+
+<td><strong>Email:</strong> gso1trg@ndu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.ndu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL TEXTILE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Faisalabad</td>
+
+<td>National Textile University: Sheikhupura Road, Faisalabad 37610, Pakistan</td>
+
+<td>92 (041) 9230081-90</td>
+
+<td><strong>Email:</strong> info@ntu.edu.pk <br/><strong>Fax:</strong>92 (041) 9230098<br/><strong>URL:</strong>http://www.ntu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL UNIVERSITY OF COMPUTER &amp; EMERGING SCIENCES (FAST)</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>A.K Brohi Road , Sector H-11/4, Islamabad. </td>
+
+<td>+92-51-111 128 128, +92-51-831</td>
+
+<td><strong>Email:</strong> admissions@nu.edu.pk <br/><strong>Fax:</strong> (051) 410 0619<br/><strong>URL:</strong>http://www.nu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL UNIVERSITY OF MEDICAL SCIENCES</td>
+
+<td>Public</td>
+
+<td>Rawalpindi</td>
+
+<td>National University of Medical Sciences, The Mall, Rawalpindi, Pakistan.</td>
+
+<td>+92-51-9270677</td>
+
+<td><strong>Email:</strong> info@numspak.edu.pk <br/><strong>Fax:</strong>+92-51-9270677<br/><strong>URL:</strong>http://numspak.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL UNIVERSITY OF MODERN LANGUAGES (NUML)</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>National University of Modern Languages  H-9 Islamabad ,Pakistan. </td>
+
+<td>+92-51-111-11-6878, +92-51-908</td>
+
+<td><strong>Email:</strong> info@numl.edu.pk <br/><strong>Fax:</strong>+92-51-9258655<br/><strong>URL:</strong>http://www.numl.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NATIONAL UNIVERSITY OF SCIENCES &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>National University of Sciences and Technology. NUST Campus, H-12, Islamabad, Pakistan. </td>
+
+<td> +92-51-111-11-6878</td>
+
+<td><strong>Email:</strong> hrm@nust.edu.pk <br/><strong>Fax:</strong>051-90851332<br/><strong>URL:</strong>http://www.nust.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NAZEER HUSSAIN UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Address: ST-2 Block-4, Federal B Area Near Karimabad Karachi.</td>
+
+<td>+92-21- 3636 2046-54 </td>
+
+<td><strong>Email:</strong> info@nhu.edu.pk <br/><strong>Fax:</strong>92 21 36362045<br/><strong>URL:</strong>http://www.nhu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>NEWPORT INSTITUTE OF COMMUNICATIONS &amp; ECONOMICS</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>40-L, PECHS Block-6, Karachi. </td>
+
+<td>+9221-34541067, +9221-36671234</td>
+
+<td><strong>Email:</strong> info@newports.edu.pk <br/><strong>Fax:</strong>+92-21-4541089<br/><strong>URL:</strong>http://www.newports.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NORTHERN UNIVERSITY NOWSHERA</td>
+
+<td>Private</td>
+
+<td>Nowshera</td>
+
+<td>The Northern University (Main Campus), Wattar Walai Ziarat, Kaka Sahib Road Nowshera, KPK, PK</td>
+
+<td>+92-923-613487, +92-923-613485</td>
+
+<td><strong>Email:</strong> info@northern.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.northern.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>NUR INTERNATIONAL UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>11/I-B, Model Town, Lahore – Pakistan</td>
+
+<td>+92-42-111555600, +92-42-37421</td>
+
+<td><strong>Email:</strong> info@niu.edu.pk <br/><strong>Fax:</strong>042-37421993<br/><strong>URL:</strong>http://www.niu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS (PIDE)</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Pakistan Institute of Development Economics (PIDE),  Quaid-i-Azam University Campus,  P.O. Box. 1091, Islamabad,  44000, Pakistan. </td>
+
+<td>+92-51-9248074  +92-51-9248065</td>
+
+<td><strong>Email:</strong> registrar@pide.org.pk <br/><strong>Fax:</strong>+92 51 9248065<br/><strong>URL:</strong>http://www.pide.org.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>PAKISTAN INSTITUTE OF ENGINEERING &amp; APPLIED SCIENCES</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Nilore, Islamabad, Pakistan. </td>
+
+<td>+92 51 1111 74327</td>
+
+<td><strong>Email:</strong> registrar@pieas.edu.pk <br/><strong>Fax:</strong>+92 51 924 8600<br/><strong>URL:</strong>http://www.pieas.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>PAKISTAN INSTITUTE OF FASHION &amp; DESIGN</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td> 51-JIII Joher Town. Lahore , P.O.Box 542782 Pakistan</td>
+
+<td> 042-99232951-7</td>
+
+<td><strong>Email:</strong> info@pifd.edu.pk <br/><strong>Fax:</strong>042-99232966<br/><strong>URL:</strong>http://www.pifd.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>PEOPLES UNIVERSITY OF MEDICAL &amp; HEALTH SCIENCES FOR WOMEN</td>
+
+<td>Public</td>
+
+<td>Nawabshah</td>
+
+<td>Peoples University of Medical &amp; Health Sciences for Women, Nawabshah 67480 (SBA). </td>
+
+<td>+92-244-9370260</td>
+
+<td><strong>Email:</strong> registrar@pumhs.edu.pk <br/><strong>Fax:</strong>+92-244-9370261<br/><strong>URL:</strong>http://www.pumhs.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>PIR MEHR ALI SHAH ARID AGRICULTURE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Rawalpindi</td>
+
+<td>PMAS-Arid Agriculture University Rawalpindi,  Shamsabad, Muree Road Rawalpindi - Pakistan. </td>
+
+<td>+92-51-9292104 </td>
+
+<td><strong>Email:</strong> registrar@uaar.edu.pk <br/><strong>Fax:</strong>+92-051-9290459 <br/><strong>URL:</strong>http://www.uaar.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>PRESTON UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Kohat</td>
+
+<td>Sector 10 Street 3 KDA Kohat, Kohat, Pakistan,  Islamabad Campus: Plot No 85, Street 3, Sector H-8/1,Islamabad. </td>
+
+<td>+92-51-8491300</td>
+
+<td><strong>Email:</strong> kohat@preston.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.preston.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>PRESTON UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Main Campus:15, Banglore Town, Shahrah-e-Faisal,Karachi. </td>
+
+<td>+92-21-34398727</td>
+
+<td><strong>Email:</strong> karachi@preston.edu.pk <br/><strong>Fax:</strong>021-34525881 <br/><strong>URL:</strong>http://www.preston.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>QARSHI UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Qarshi University 8-Km Thokar Niaz baig, Canal Bank Road, Opposite lzmir Town, Lahore- Pakistan. 54000</td>
+
+<td>+92-42-37576946,+92-42-3742976</td>
+
+<td><strong>Email:</strong> info@qu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.qu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>QUAID-E-AWAM UNIVERSITY OF ENGINEERING, SCIENCES &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Nawabshah</td>
+
+<td>Quaid-e-Awam University Sakrand Road, Nawabshah, Sindh, Pakistan</td>
+
+<td>0244-9370381-5</td>
+
+<td><strong>Email:</strong> registrar@quest.edu.pk <br/><strong>Fax:</strong>92-244-9370367, 9370<br/><strong>URL:</strong>http://www.quest.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>QUAID-I-AZAM UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Quaid-i-Azam University Islamabad, 45320, Pakistan. </td>
+
+<td>+92-051-9064 0000 </td>
+
+<td><strong>Email:</strong> info@qau.edu.pk <br/><strong>Fax:</strong>+92-51-90644110<br/><strong>URL:</strong>https://www.qau.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>QURTABA UNIVERSITY OF SCIENCE &amp; INFORMATION TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Dera Ismail Khan</td>
+
+<td>Sheikh Yusuf Road, Dera Ismail Khan, </td>
+
+<td>+92 (966) - 714007/8</td>
+
+<td><strong>Email:</strong> dik@qurtuba.edu.pk <br/><strong>Fax:</strong>+92 (966) - 730047<br/><strong>URL:</strong>http://www.qurtuba.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>RIPHAH INTERNATIONAL UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Sector I-14, Hajj Complex, Islamabad.</td>
+
+<td>+92 (51) 844 6000-7</td>
+
+<td><strong>Email:</strong> admissions@riphah.edu.pk <br/><strong>Fax:</strong>+92 (51) 831 3141<br/><strong>URL:</strong>https://www.riphah.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>SARDAR BAHADUR KHAN WOMEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Quetta</td>
+
+<td>SBK Women's University, Brewery Road Quetta, Balochistan,Pakistan</td>
+
+<td>+92(081) 9213303</td>
+
+<td><strong>Email:</strong> vc@sbkwu.edu.pk <br/><strong>Fax:</strong>+92(081)9213308<br/><strong>URL:</strong>http://www.sbkwu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SARHAD UNIVERSITY OF SCIENCE &amp; INFORMATION TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>Sarhad University Landi Akhun Ahmad, Hayatabad Link. Ring Road, Peshawar, Pakistan</td>
+
+<td>+92-91-5230931</td>
+
+<td><strong>Email:</strong> registrar@suit.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.suit.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>SHAH ABDUL LATIF UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Khairpur</td>
+
+<td>Old National Highway, Khairpur Mir's, 66020 Sindh, Pakistan</td>
+
+<td>+92-243-9280061-62 </td>
+
+<td><strong>Email:</strong> info@salu.edu.pk <br/><strong>Fax:</strong>92-243-9280-060<br/><strong>URL:</strong>http://www.salu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED BENAZIR BHUTTO CITY UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Plot F-201 1st floor &amp; 2nd Floor, Near Site Philips Chowrangi, Labour Square, Site Police Station, Binoria Restaurant, Karachi. </td>
+
+<td>+92-21-34242136, +92-21-342420</td>
+
+<td><strong>Email:</strong> info@sbbcu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.sbbcu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Plot # 30-A/1, Sector 23, Korangi Industrial Area, Karachi, 74900-Pakistan.</td>
+
+<td>+92)- (021)-35115008-10, (021)</td>
+
+<td><strong>Email:</strong> info@sbbdewanuniversity.edu.pk <br/><strong>Fax:</strong>+92)-(021)-35115017<br/><strong>URL:</strong>http://www.sbbdewanuniversity.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED BENAZIR BHUTTO UNIVERSITY OF VETERINARY &amp; ANIMAL SCIENCES</td>
+
+<td>Public</td>
+
+<td>Nawabshah</td>
+
+<td>Main Nawabshah road, Sakrand, District Shaheed Benazirabad</td>
+
+<td>+92-244-322150 </td>
+
+<td><strong>Email:</strong> info@sbbuvas.edu.pk <br/><strong>Fax:</strong>0244 322151<br/><strong>URL:</strong>http://www.sbbuvas.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD</td>
+
+<td>Public</td>
+
+<td>Nawabshah</td>
+
+<td>SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD, Pakistan 67450</td>
+
+<td>+92-244-9370520, +92-244-93705</td>
+
+<td><strong>Email:</strong> info@sbbusba.edu.pk <br/><strong>Fax:</strong>+92-244-9370521 <br/><strong>URL:</strong>http://www.sbbusba.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED BENAZIR BHUTTO WOMEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>Shaheed Benazir Bhutto Women University, Opposite Fort Balahisar near LRH, Peshawar Pakistan.</td>
+
+<td>+92-91-9212422, +92-91-922 477</td>
+
+<td><strong>Email:</strong> info@sbbwu.edu.pk <br/><strong>Fax:</strong>+92-91-9224707<br/><strong>URL:</strong>http://www.sbbwu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED MOHTARMA BENAZIR BHUTTO MEDICAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Larkana</td>
+
+<td>Shaheed Mohtarma Benazir Bhutto Medical University Larkana, Sindh, Pakistan</td>
+
+<td>+92-74-9410724, +92-74-9410908</td>
+
+<td><strong>Email:</strong> registrar@smbbmu.edu.pk <br/><strong>Fax:</strong>+92-74-9410910, +92-<br/><strong>URL:</strong>http://www.smbbmu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>SZABIST 90 and 100 Clifton, Karachi 75600, Pakistan</td>
+
+<td>(92-21) 111-922-478</td>
+
+<td><strong>Email:</strong> info@szabist.edu.pk <br/><strong>Fax:</strong> (92-21) 35830446<br/><strong>URL:</strong>http://www.szabist.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED ZULFIQAR ALI BHUTTO MEDICAL UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>Shaheed Zulfiqar Ali Bhutto Medical University (SZABMU), PIMS, G-8/3, Islamabad, 44000</td>
+
+<td>(92) (51) (9107) 687</td>
+
+<td><strong>Email:</strong> info@szabmu.edu.pk <br/><strong>Fax:</strong>(92) (51) (9107) 687<br/><strong>URL:</strong>http://www.szabmu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>SHAHEED ZULFIQAR ALI BHUTTO UNIVERSITY OF LAW</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Chaudry Khaliq-uz-Zaman Road, Near Lilly Bridge, Clifton, Karachi. </td>
+
+<td>+92-21-99206452-53 </td>
+
+<td><strong>Email:</strong> info@szabul.edu.pk <br/><strong>Fax:</strong>021-99206425<br/><strong>URL:</strong>http://www.szabul.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>SHIFA TAMEER-E-MILLAT UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Shifa Tameer-e-Millat University  Pitras Bukhari Road, H-8/4  Islamabad 44000 Pakistan </td>
+
+<td>+92-51-8464214, +92-51-8464215</td>
+
+<td><strong>Email:</strong> info@stmu.edu.pk <br/><strong>Fax:</strong>+92-51-486-3264<br/><strong>URL:</strong>http://www.stmu.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF TECHNOLOGY (SHUHADA-E-ARMY PUBLIC SCHOOL)</td>
+
+<td>Public</td>
+
+<td>Nowshera</td>
+
+<td>Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera. 24100 </td>
+
+<td>0923-560301</td>
+
+<td><strong>Email:</strong> samibangash@uotnowshera.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://uotnowshera.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>SINDH AGRICULTURE UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Hyderabad</td>
+
+<td>Sindh Agriculture Univeristy, Tandojam Hyderabad, Sindh Pakistan Postal Code: 70060</td>
+
+<td>+ 92-22-2765870</td>
+
+<td><strong>Email:</strong> info@sau.edu.pk <br/><strong>Fax:</strong>92-22-2765300<br/><strong>URL:</strong>http://www.sau.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>SINDH INSTITUTE OF MANAGEMENT &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>ST-25, BLOCK 14, GULISTAN-E-JOHAR, KARACHI</td>
+
+<td>021 111-746-746</td>
+
+<td><strong>Email:</strong> info@simt.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.simat.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>SINDH INSTITUTE OF MEDICAL SCIENCES</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Civil Hospital Karachi 74200, Pakistan</td>
+
+<td> (92-21) 99215752 &amp; 99215718</td>
+
+<td><strong>Email:</strong> info@siut.org <br/><strong>Fax:</strong> (92-21) 99215469 , <br/><strong>URL:</strong>http://www.siut.org </td>
+
+</tr>
+
+<tr>
+
+<td>SINDH MADRESATUL ISLAM UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Aiwan-e-Tijarat Road,  Karachi-74000, Pakistan.</td>
+
+<td>+92-21-99211274, +92-21-992112</td>
+
+<td><strong>Email:</strong> info@smiu.edu.pk <br/><strong>Fax:</strong>+92 21 99217504<br/><strong>URL:</strong>http://www.smiu.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>SIR SYED UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Main University Road,  Karachi 75300, Pakistan</td>
+
+<td>+92 21 3498-8000</td>
+
+<td><strong>Email:</strong> info@ssuet.edu.pk <br/><strong>Fax:</strong>+92 21 3498238 <br/><strong>URL:</strong>http://www.ssuet.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>SUKKUR INSTITUTE OF BUSINESS ADMINISTRATION</td>
+
+<td>Public</td>
+
+<td>Sukkur</td>
+
+<td>Main Campus, Airport Road, Sukkur </td>
+
+<td>071-5644000-05</td>
+
+<td><strong>Email:</strong> shoukat.abbasi@iba-suk.edu.pk <br/><strong>Fax:</strong>92-71-5804419<br/><strong>URL:</strong>http://www.iba-suk.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>TEXTILE INSTITUTE OF PAKISTAN</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>203, Aamir Trade Centre Plot No. 233/1-A, Block 2, PECHS, Shara-e-Quaideen, Karachi. Pakistan.</td>
+
+<td>(92-21) 34549734 / 34549870</td>
+
+<td><strong>Email:</strong> info@tip.edu.pk <br/><strong>Fax:</strong>(92-21) 34533525<br/><strong>URL:</strong>http://tip.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>THE SUPERIOR COLLEGE</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Main Raiwind Road, Lahore</td>
+
+<td>042-111-00-00-78 , 042-3810-42</td>
+
+<td><strong>Email:</strong> info@superior.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.superior.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>THE UNIVERSITY OF FAISALABAD</td>
+
+<td>Private</td>
+
+<td>Faisalabad</td>
+
+<td>Sargodha Road, University Town, Faisalabad </td>
+
+<td>+92 041-8868326-30</td>
+
+<td><strong>Email:</strong> info@tuf.edu.pk <br/><strong>Fax:</strong>+92 041 8868220<br/><strong>URL:</strong>http://www.tuf.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>THE WOMEN UNIVERSITY</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>The Women University Multan Address: Kutchery Campus, L.M.Q. Road, Multan</td>
+
+<td>061-9200811</td>
+
+<td><strong>Email:</strong> info@wum.edu.pk <br/><strong>Fax:</strong>061-4500950<br/><strong>URL:</strong>http://www.wum.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF AGRICULTURE</td>
+
+<td>Public</td>
+
+<td>Faisalabad</td>
+
+<td>University of Agriculture University Main Rd، Faisalabad, Pakistan. </td>
+
+<td>+92 41 9200161-70</td>
+
+<td><strong>Email:</strong> contact_us@uaf.edu.pk <br/><strong>Fax:</strong> +92 41 9200764<br/><strong>URL:</strong>http://www.uaf.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF AZAD JAMMU &amp; KASHMIR</td>
+
+<td>Public</td>
+
+<td>Muzaffarabad</td>
+
+<td>University of Azad Jammu &amp; Kashmir, Administration Block, Challa Campus Muzaffarabad, Azad Kashmir</td>
+
+<td>+92-5822-960466-470</td>
+
+<td><strong>Email:</strong> info@ajku.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.ajku.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF BALOCHISTAN</td>
+
+<td>Public</td>
+
+<td>Quetta</td>
+
+<td>University of Balochistan, Sariab Road Quetta.</td>
+
+<td> +92-81-9211124</td>
+
+<td><strong>Email:</strong> registrar@um.uob.edu.pk <br/><strong>Fax:</strong>081-9211-277<br/><strong>URL:</strong>http://www.uob.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF CENTRAL PUNJAB</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Khayaban-e-Jinnah Road, Johar Town, Lahore. </td>
+
+<td>+92-42-35954890, +92-42-358800</td>
+
+<td><strong>Email:</strong> info@ucp.edu.pk <br/><strong>Fax:</strong>+92-42-35954892<br/><strong>URL:</strong>http://www.ucp.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF EDUCATION</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>College Road, Township, Lahore. </td>
+
+<td>+92-42-99262223-4 </td>
+
+<td><strong>Email:</strong> registrar@ue.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.ue.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>University of Engineering &amp; Technology, Peshawar, Pakistan </td>
+
+<td>(+92-91)9216796-8</td>
+
+<td><strong>Email:</strong> registrar@uetpeshawar.edu.pk <br/><strong>Fax:</strong>(+92-91) 9216663<br/><strong>URL:</strong>http://www.uetpeshawar.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY, G.T. Rd, Lahore 54890, Pakistan</td>
+
+<td>+92-42-99250201, +92-42-990292</td>
+
+<td><strong>Email:</strong> registrar@uet.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uet.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Taxila</td>
+
+<td>University of Engg. &amp; Technology (UET) Taxila. </td>
+
+<td>+92 51-9047-400</td>
+
+<td><strong>Email:</strong> nfo@uettaxila.edu.pk <br/><strong>Fax:</strong>+92 51-9047-420<br/><strong>URL:</strong>http://www.uettaxila.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF FATA</td>
+
+<td>Public</td>
+
+<td>Kohat</td>
+
+<td>Govt Degree College Darra Adam Khel Akhurwal F.R Kohat  N-55, Pakistan. </td>
+
+<td>+92-91-9218182, +92-91-9216427</td>
+
+<td><strong>Email:</strong> info@fu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.fu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF GUJRAT</td>
+
+<td>Public</td>
+
+<td>Gujrat</td>
+
+<td>University of Gujrat Hafiz Hayat Campus Jalalpur Road Gujrat, Pakistan.</td>
+
+<td>+92 (53) 3643112</td>
+
+<td><strong>Email:</strong> info@uog.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uog.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF HEALTH SCIENCES</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>University of Health Sciences, Khayaban-e-Jamia Punjab, Lahore-54600</td>
+
+<td>+92-42-99231304-09, +92-42-111</td>
+
+<td><strong>Email:</strong> info@uhs.edu.pk <br/><strong>Fax:</strong>042-9230870<br/><strong>URL:</strong>http://www.uhs.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF KARACHI</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>University of Karachi Main University Road  Karachi - 75270  Sindh, Pakistan</td>
+
+<td> 92.21.99261300-07 </td>
+
+<td><strong>Email:</strong> info@uok.edu.pk <br/><strong>Fax:</strong>92.21.99261330<br/><strong>URL:</strong>http://www.uok.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF LAHORE</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>UNIVERSITY OF LAHORE,1-K.M, Raiwind Road, Lahore. </td>
+
+<td>+92 42 111-865-865</td>
+
+<td><strong>Email:</strong> info@uol.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uol.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF MANAGEMENT &amp; TECHNOLOGY</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>University of Management and Technology , C-II Johar Town Lahore </td>
+
+<td>+92 42 35212801-10</td>
+
+<td><strong>Email:</strong> admissions@umt.edu.pk <br/><strong>Fax:</strong>+92 42 35184789<br/><strong>URL:</strong>http://www.umt.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF PESHAWAR</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>Old Jamrud Road, Peshawar. </td>
+
+<td>+92-91-9216701</td>
+
+<td><strong>Email:</strong> registrar@uop.edu.pk <br/><strong>Fax:</strong>+92-91-9216736<br/><strong>URL:</strong>http://www.uop.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SARGODHA</td>
+
+<td>Public</td>
+
+<td>Sargodha</td>
+
+<td>University of Sargodha, University Road Sargodha 40100 Punjab,Pakistan</td>
+
+<td>+92-48-9230811-15 </td>
+
+<td><strong>Email:</strong> info@uos.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uos.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SCIENCE &amp; TECHNOLOGY</td>
+
+<td>Public</td>
+
+<td>Bunnu</td>
+
+<td> University of Science &amp; Technology, Bannu, Khyber Pakhtunkhawa (KPK), (Pakistan)</td>
+
+<td>+92-928-633817-18</td>
+
+<td><strong>Email:</strong> registrar@ustb.edu.pk <br/><strong>Fax:</strong>+92-928-633821<br/><strong>URL:</strong>http://www.ustb.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SINDH</td>
+
+<td>Public</td>
+
+<td>Jamshoro</td>
+
+<td>Allama I.I.Kazi Campus, University of Sindh, Jamshoro-76080, Sindh, Pakistan.</td>
+
+<td>+92-22-9213-181-90</td>
+
+<td><strong>Email:</strong> info@usindh.edu.pk <br/><strong>Fax:</strong>+92-22-9213-246<br/><strong>URL:</strong>http://www.usindh.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SOUTH ASIA</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>47-Tufail Road, Lahore Cantt. </td>
+
+<td>+92-42-36672943, +92-42-366 50</td>
+
+<td><strong>Email:</strong> help@usa.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>+92-42-36672943, +92-42-366 50983</td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SWABI</td>
+
+<td>Public</td>
+
+<td>Swabi</td>
+
+<td>University of Swabi, Khyber Pakhtunkhwa</td>
+
+<td>+92-938-490238 </td>
+
+<td><strong>Email:</strong> adminofficer@uoswabi.edu.pk <br/><strong>Fax:</strong>0938490238<br/><strong>URL:</strong>http://www.uoswabi.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF SWAT</td>
+
+<td>Public</td>
+
+<td>Swat</td>
+
+<td>G.T Road, Odigram, Swat, Khyber Pakhtunkhwa. </td>
+
+<td>+92-946-924 00060946</td>
+
+<td><strong>Email:</strong> registrar@uswat.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uswat.edu.pk/ </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF VETERINARY &amp; ANIMAL SCIENCES</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>University of Veterinary and Animal Sciences - UVAS Syed Abdul Qadir Jillani (Out Fall) Road, Lahore - Pakistan</td>
+
+<td>92-42-99211374, 99211449</td>
+
+<td><strong>Email:</strong> helpline@uvas.edu.pk <br/><strong>Fax:</strong>92-42-9211461<br/><strong>URL:</strong>http://www.uvas.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF WAH</td>
+
+<td>Private</td>
+
+<td>Wah Cantt</td>
+
+<td>Quaid Avenue, The Mall. Wah Cantt. </td>
+
+<td>051-9157000, 051-451425256-7</td>
+
+<td><strong>Email:</strong> info@uow.edu.pk <br/><strong>Fax:</strong>051-9314311<br/><strong>URL:</strong>http://www.uow.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF THE PUNJAB</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>P.O. Box No. 54590. Lahore, Pakistan.</td>
+
+<td>+92-42-99231098-9, +92-42-3584</td>
+
+<td><strong>Email:</strong> registrar@pu.edu.pk <br/><strong>Fax:</strong>92-55-9201223<br/><strong>URL:</strong>http://www.pu.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>VIRTUAL UNIVERSITY OF PAKISTAN</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>M.A. Jinnah Campus, Defence Road, Off Raiwind Road, Lahore, Pakistan.</td>
+
+<td>+92-42-99203901 </td>
+
+<td><strong>Email:</strong> registrar@vu.edu.pk <br/><strong>Fax:</strong>+92-42-99200604<br/><strong>URL:</strong>http://www.vu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>WOMEN UNIVERSITY MARDAN</td>
+
+<td>Public</td>
+
+<td>Mardan</td>
+
+<td>http://www.wumardan.edu.pk </td>
+
+<td>(0937) 871 416</td>
+
+<td><strong>Email:</strong> pstovc@wumardan.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.wumardan.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>WOMEN UNIVERSITY, SWABI</td>
+
+<td>Public</td>
+
+<td>Swabi</td>
+
+<td>WOMEN UNIVERSITY, SWABI</td>
+
+<td>+92 0938-224222</td>
+
+<td><strong>Email:</strong> info@wus.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.wus.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>ZIA-UD-DIN UNIVERSITY</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>4/B, Shahra-e-Ghalib, Block 6, Clifton, Karachi 75600. </td>
+
+<td>(9221) 35862937-9</td>
+
+<td><strong>Email:</strong> info@zu.edu.pk <br/><strong>Fax:</strong>(9221) 35862940<br/><strong>URL:</strong>ZIA-UD-DIN UNIVERSITY</td>
+
+</tr>
+
+<tr>
+
+<td>LAHORE SCHOOL OF ECONOMICS  </td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Intersection Main Boulevard Phase VI DHA, Burki 53200, Lahore. </td>
+
+<td>+ 92 42 36560675</td>
+
+<td><strong>Email:</strong> qaisar@lahoreschool.edu.pk <br/><strong>Fax:</strong>+ 92 42 36560905<br/><strong>URL:</strong>http://www.lahoreschoolofeconomics.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>LASBELA UNIVERSITY OF AGRICULTURE, WATER &amp; MARINE SCIENCES</td>
+
+<td>Public</td>
+
+<td>Lasbela</td>
+
+<td>Lasbela University of Agriculture, Water and Marine Sciences, Uthal, District Lasbela </td>
+
+<td>0853-610846 </td>
+
+<td><strong>Email:</strong> pvc@luawms.edu.pk <br/><strong>Fax:</strong>0853-610294<br/><strong>URL:</strong>http://www.luawms.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>UNIVERSITY OF TURBAT</td>
+
+<td>Public</td>
+
+<td>Jazan</td>
+
+<td>Overseas Colony, Airport Road, Turbat Balochistan. </td>
+
+<td>+92-85-414498 </td>
+
+<td><strong>Email:</strong> registrar@uot.edu.pk <br/><strong>Fax:</strong>http://www.uot.edu.p<br/><strong>URL:</strong>http://www.uot.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>Aga Khan University</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>First Floor, Juma Building  The Aga Khan University  P.O. Box 3500, Stadium Road,  Karachi 74800, Pakistan</td>
+
+<td>+92 21 3493 0051</td>
+
+<td><strong>Email:</strong> mc.ea@aku.edu <br/><strong>Fax:</strong>+92 21 3493 4294, 34<br/><strong>URL:</strong>https://www.aku.edu/</td>
+
+</tr>
+
+<tr>
+
+<td>Al-Khair University (Banned by HEC)</td>
+
+<td>Private</td>
+
+<td>Muzzaffarabad</td>
+
+<td>University Road, Bhimber (AJK)</td>
+
+<td>05828-454085</td>
+
+<td><strong>Email:</strong> info@alkhair.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://alkhair.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Barret Hodgson University</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>The Salim Habib Campus, NC-24, Deh Dih, Korangi Creek, Karachi </td>
+
+<td>92 21 35122931-35</td>
+
+<td><strong>Email:</strong> info@bhu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.bhu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Fatima Jinnah Women University</td>
+
+<td>Public</td>
+
+<td>Rawalpindi</td>
+
+<td>The Mall, Old Presidency, Rawalpindi </td>
+
+<td>+92-51-9292901,+92-51-9292902</td>
+
+<td><strong>Email:</strong> bhs@fjwu.edu.pk <br/><strong>Fax:</strong>+92 (0)51 9292903<br/><strong>URL:</strong>http://www.fjwu.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>Gambat Institute of Medical Sciences</td>
+
+<td>Public</td>
+
+<td>Khairpur</td>
+
+<td>Gambat Institute of Medical Sciences, Gambat Station Road, Pakistan. </td>
+
+<td>92-243-640160 </td>
+
+<td><strong>Email:</strong> mailus@gims.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.gims.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Global Institute, Lahore [HEC-NOC SUSPENDED] </td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>3-Aurangzeb Block, New Garden Town, Lahore. </td>
+
+<td>+92-42-35857924-6 </td>
+
+<td><strong>Email:</strong> info@global.edu.pk <br/><strong>Fax:</strong>+92-42-5717447<br/><strong>URL:</strong>http://global.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Imperial College of Business Studies </td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Canal Bank Road Near Bahria Chowk, Lahore</td>
+
+<td>+92-42-35978525-32 </td>
+
+<td><strong>Email:</strong> admissions@imperial.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://imperial.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Mohi-ud-Din Islamic University</td>
+
+<td>Private</td>
+
+<td>Muzzaffarabad</td>
+
+<td>Mohi-ud-Din Islamic University, Nerian Sharif AJ&amp;K. </td>
+
+<td>05825-450282-3 </td>
+
+<td><strong>Email:</strong> info@miu.edu.pk <br/><strong>Fax:</strong>+92-5827-468777<br/><strong>URL:</strong>http://miu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Pakistan Military Academy</td>
+
+<td>Public</td>
+
+<td>Abbottabad</td>
+
+<td>Kakul Road, Abbottabad Pakistan </td>
+
+<td>92 (0)992 - 363643	</td>
+
+<td><strong>Email:</strong> missing@pma.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.pma.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>PAKISTAN NAVAL ACADEMY</td>
+
+<td>Public</td>
+
+<td>Karachi</td>
+
+<td>Pakistan Naval Academy  Karachi, Pakistan </td>
+
+<td>0347 1891949</td>
+
+<td><strong>Email:</strong> email@paknavy.gov.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.paknavy.gov.pk </td>
+
+</tr>
+
+<tr>
+
+<td>Preston Institute of Management, Science &amp; Technology (Banned for admissions w.e.f 10-06-2017)</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>177/2, IEP Building, Karachi, Pakistan</td>
+
+<td>0921-32789888-90</td>
+
+<td><strong>Email:</strong> admissions@pimsat-khi.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://pimsat-khi.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Shuhada-e-Army Public School University of Technology, Nowshera</td>
+
+<td>Public</td>
+
+<td>Nowshera</td>
+
+<td>Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera.</td>
+
+<td>0923-560301 </td>
+
+<td><strong>Email:</strong> missing@uotnowshera.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://uotnowshera.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>University of Kotli Azad Jammu and Kashmir</td>
+
+<td>Public</td>
+
+<td>Muzzaffarabad</td>
+
+<td>Kotli, Azad Kashmir, </td>
+
+<td>+92-5826-960042</td>
+
+<td><strong>Email:</strong> vice.chancellor@uokajk.edu.pk <br/><strong>Fax:</strong>(+92) 5826 960049<br/><strong>URL:</strong>http://www.uokajk.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>University of Baltistan, Skardu</td>
+
+<td>Public</td>
+
+<td>Skardu</td>
+
+<td>University of Baltistan, Skardu</td>
+
+<td>05815-960070 </td>
+
+<td><strong>Email:</strong> info@kiu.edu.pk <br/><strong>Fax:</strong>05815-960256 <br/><strong>URL:</strong>https://www.kiu.edu.pk/page/skardu-campus</td>
+
+</tr>
+
+<tr>
+
+<td>University of Loralai</td>
+
+<td>Public</td>
+
+<td>Lasbela</td>
+
+<td>College Road, Loralai at Loralai Zhob Division, Balochistan.</td>
+
+<td>(0824) 410782</td>
+
+<td><strong>Email:</strong> info@uoli.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uoli.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>University of Malakand</td>
+
+<td>Public</td>
+
+<td>Mardan</td>
+
+<td>Chakdara, Dir, Lower, Malakand Khyber Pakhtunkhwa </td>
+
+<td>0945-763023 Ext 3011</td>
+
+<td><strong>Email:</strong> missinginfo@uom.edu.pk <br/><strong>Fax:</strong>0945-761624<br/><strong>URL:</strong>http://www.uom.edu.pk </td>
+
+</tr>
+
+<tr>
+
+<td>University of Poonch</td>
+
+<td>Public</td>
+
+<td>Rawalakot</td>
+
+<td>B-65, Housing Scheme, Rawalakot (Azad Kashmir) </td>
+
+<td>+92 5824-960053 </td>
+
+<td><strong>Email:</strong> registrar@upr.edu.pk <br/><strong>Fax:</strong>92 5824-960054<br/><strong>URL:</strong>http://www.upr.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Women University of Azad Jammu &amp; Kashmir</td>
+
+<td>Public</td>
+
+<td>Mirpur (AK)</td>
+
+<td>Women University of Azad Jammu &amp; Kashmir, Bagh </td>
+
+<td>058-23-960044</td>
+
+<td><strong>Email:</strong> info@wuajk.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.wuajk.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Shaheed Benazir Bhutto University</td>
+
+<td>Public</td>
+
+<td>Amilcar</td>
+
+<td>Sheringal, Upper Dir, Khyber Pakhtunkhwa</td>
+
+<td>+92-944-885529</td>
+
+<td><strong>Email:</strong> registrar@sbbu.edu.pk <br/><strong>Fax:</strong>+92-944-885805<br/><strong>URL:</strong>http://www.sbbu.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Khushal Khan Khattak University</td>
+
+<td>Public</td>
+
+<td>testcity</td>
+
+<td>Opposite Tableghi markaz, Karak. </td>
+
+<td>+92-927- 291018, 291026</td>
+
+<td><strong>Email:</strong> vc@kkkuk.edu.pk <br/><strong>Fax:</strong> +92-927-291035<br/><strong>URL:</strong>http://www.kkkuk.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Benazir Bhutto Shaheed University of Technology &amp; Skill Development, Khairpur Mirs</td>
+
+<td>Public</td>
+
+<td>Khairpur</td>
+
+<td>Station Road Near Mil Colony Khairpur MiRS Khairpur  Khairpur Mirs </td>
+
+<td>0243-9280168</td>
+
+<td><strong>Email:</strong> missingemail@bbsut.edu.pk <br/><strong>Fax:</strong>missing<br/><strong>URL:</strong>https://www.underprocess.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Bacha Khan University</td>
+
+<td>Public</td>
+
+<td>testcity</td>
+
+<td>Bacha Khan University, Palosa, Charsadda. </td>
+
+<td>091-6540116	</td>
+
+<td><strong>Email:</strong> webmaster@bkuc.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.bkuc.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>National University of Technology (NUTECH)</td>
+
+<td>Public</td>
+
+<td>Islamabad</td>
+
+<td>National University of Technology (NUTECH), IJP Road, Sector I-12, Islamabad. </td>
+
+<td>+92-51-5476768 </td>
+
+<td><strong>Email:</strong> info@nutech.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://nutech.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>ShifaTameer-E-Millat University</td>
+
+<td>Private</td>
+
+<td>Islamabad</td>
+
+<td>Shifa Tameer-e-Millat University Pitras Bukhari Road, H-8/4 Islamabad</td>
+
+<td>+92-51-8464214</td>
+
+<td><strong>Email:</strong> info@stmu.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://stmu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Cholistan University of Veterinary and Animal Sciences, Bahawalpur</td>
+
+<td>Public</td>
+
+<td>Bahawalpur</td>
+
+<td>Cholistan University of Veterinary &amp; Animal Sciences, Near DHA, Bahawalpur, Punjab-Pakistan</td>
+
+<td>+92-062- 9255716</td>
+
+<td><strong>Email:</strong> registrar@cuvas.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.cuvas.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Faisalabad Medical University, Faisalabad</td>
+
+<td>Public</td>
+
+<td>Faisalabad</td>
+
+<td>Sargodha Road, Faisalabad-Punjab Pakistan </td>
+
+<td>+92-41-9210080 </td>
+
+<td><strong>Email:</strong> vcfmuf@gmail.com <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.pmc.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Institute for Art and Culture</td>
+
+<td>Private</td>
+
+<td>Lahore</td>
+
+<td>Mian Riwand Road, Lahore Pakistan </td>
+
+<td>+92-42-32590040-7</td>
+
+<td><strong>Email:</strong> info@iac.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://iac.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Nishtar Medical University Multan</td>
+
+<td>Public</td>
+
+<td>Multan</td>
+
+<td>Nishtar Medical University (NMU), Nishtar Road, Gillani Colony, Multan Punjab, Pakistan</td>
+
+<td>+92-61-9200231-35</td>
+
+<td><strong>Email:</strong> nishtarmed@gmail.com <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.nmch.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Punjab Tianjin University of Technology, Lahore</td>
+
+<td>Public</td>
+
+<td>Lahore</td>
+
+<td>Punjab Tianjin University of Technology (PTUT),  Near Green Town Police station, Township,  Lahore, Pakistan </td>
+
+<td>+92-42-9933 2438</td>
+
+<td><strong>Email:</strong> info@ptut.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://ptut.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Emaan Institute of Management &amp; Sciences, Karachi</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>E-136, Abul Hassan Asphani Road, Block-07 Gulshan-e-Iqbal, Karachi, 74200, Pakistan</td>
+
+<td>+92-21-34999200-2</td>
+
+<td><strong>Email:</strong> info@emaan.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.emaan.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>GOVERNMENT COLLEGE UNIVERSITY, HYDERABAD</td>
+
+<td>Public</td>
+
+<td>Hyderabad</td>
+
+<td>Opposite Pinyari Police Station, Kali Mori, Hyderabad Sindh, Pakistan</td>
+
+<td>+92-22-2111877 </td>
+
+<td><strong>Email:</strong> info@gcuh.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.gcuh.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>ILMA University </td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Main Ibrahim Hydri Road, Korangi Creek, Karachi. </td>
+
+<td>+92-21-35120462</td>
+
+<td><strong>Email:</strong> info@ilmauniversity.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.ibt.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Sohail University</td>
+
+<td>Private</td>
+
+<td>Karachi</td>
+
+<td>Sohail University, 22-23 Shaheed-e-Millat Road, Karachi-Sindh </td>
+
+<td>+92-21-34931886-9</td>
+
+<td><strong>Email:</strong> baqarnawab@hotmail.com <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.sohailuniversity.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>Abottabad University of Science And Technology (AUST)</td>
+
+<td>Public</td>
+
+<td>Abbottabad</td>
+
+<td>Captain Akaash Rabbani Shaheed Road, Tehsil Havelian, District Abbottabad, Khyber Pakhtunkhwa</td>
+
+<td>+92-992-402117</td>
+
+<td><strong>Email:</strong> info@aust.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://aust.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>The University of Agriculture, Peshawar</td>
+
+<td>Public</td>
+
+<td>Peshawar</td>
+
+<td>The University of Agriculture, Peshawar Pakistan </td>
+
+<td>+92-91-9221263</td>
+
+<td><strong>Email:</strong> registrar@aup.edu.pk <br/><strong>Fax:</strong>+92-91-9221262 <br/><strong>URL:</strong>http://www.aup.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>University of Engineering &amp; Technology (UET), Mardan</td>
+
+<td>Public</td>
+
+<td>Mardan</td>
+
+<td>University of Engineering &amp; Technology (UET), Mardan </td>
+
+<td>+92-937-9230295 </td>
+
+<td><strong>Email:</strong> registrar@uetmardan.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uetmardan.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>University of Science &amp; Technology</td>
+
+<td>Public</td>
+
+<td>Bunnu</td>
+
+<td>Main Campus Township, Bannu. </td>
+
+<td>+92-928-633823</td>
+
+<td><strong>Email:</strong> registrar@ustb.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://www.ustb.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Brains Institute Peshawar</td>
+
+<td>Private</td>
+
+<td>Peshawar</td>
+
+<td>Phase III Chowk, Jamrud Road, Peshawar </td>
+
+<td>+92-91-5611637</td>
+
+<td><strong>Email:</strong> info@brains.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://brains.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>The Bolan University of Medical and Health Sciences, Quetta	</td>
+
+<td>Public</td>
+
+<td>Quetta</td>
+
+<td>The Bolan University of Medical &amp; Health Sciences.  Brewery Road,Quetta Balochistan, Pakistan </td>
+
+<td>+92-81-9213070</td>
+
+<td><strong>Email:</strong> registrar@bumhs.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.bumhs.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>University of Sufism and Modern Sciences, Bhitshah Sindh</td>
+
+<td>Public</td>
+
+<td>Bhit Shah</td>
+
+<td>Mian Campus; Bhit Shah </td>
+
+<td>+92-22-2762415</td>
+
+<td><strong>Email:</strong> dep.registrar@usms.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://usms.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Shaheed Benazir Bhutto University</td>
+
+<td>Public</td>
+
+<td>Upper Dir</td>
+
+<td>Sheringal, Upper Dir, Khyber Pakhtunkhwa</td>
+
+<td>+92-944-885527</td>
+
+<td><strong>Email:</strong> registrar@sbbu.edu.pk <br/><strong>Fax:</strong>+92-944 - 885805<br/><strong>URL:</strong>https://sbbu.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>The University of Lakki Marwat</td>
+
+<td>Public</td>
+
+<td>Lakki Marwat</td>
+
+<td>The University of Lakki Marwat GPGC (Boys), District Lakki Marwat Khyber Pakhtunkhwa </td>
+
+<td>+92-969-511819 </td>
+
+<td><strong>Email:</strong> ulm_2017@outlook.com <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.ulm.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>University of Buner</td>
+
+<td>Public</td>
+
+<td>Buner</td>
+
+<td>University of Buner Sowari, Buner, Khyber Pakhtunkhwa </td>
+
+<td>+92-939-555211</td>
+
+<td><strong>Email:</strong> registrar@ubuner.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://www.ubuner.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>University of Chitral</td>
+
+<td>Public</td>
+
+<td> 	
+
+Chitral</td>
+
+<td>University of Chitral Seen, Lasht Chitral, Khyber Pakhtunkhwa</td>
+
+<td>+92-943-412401</td>
+
+<td><strong>Email:</strong> registrar@uoch.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uoch.edu.pk</td>
+
+</tr>
+
+<tr>
+
+<td>University of Haripur</td>
+
+<td>Public</td>
+
+<td>Haripur </td>
+
+<td>Hattar Road, Near Swat Chowk, Tehsil &amp; District Haripur. </td>
+
+<td>+92-995-615393 </td>
+
+<td><strong>Email:</strong> registrar@uoh.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>http://www.uoh.edu.pk/</td>
+
+</tr>
+
+<tr>
+
+<td>Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur</td>
+
+<td>Public</td>
+
+<td>Haripur </td>
+
+<td>Mang, Haripur-Khyber Pakhtunkhwa Pakistan </td>
+
+<td>+92-995-645112-18</td>
+
+<td><strong>Email:</strong> info@paf-iast.edu.pk <br/><strong>Fax:</strong><br/><strong>URL:</strong>https://www.paf-iast.edu.pk/</td>
+
+</tr>
+
+</tbody></table>
+
+
+
+                </div>
+                <br/>
+
+            </div> <!-- /widget-body -->
+          </div> <!-- /widget -->
+        </div>
+
+   </div>
+
+
+    </div>
+
+			</div>
+                    <!-- /.blog-content -->
+                </div>
+
+            </div>
+            <!-- /.col-md-10 -->
+
+        </div>"
